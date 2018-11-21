@@ -151,16 +151,17 @@ h1 {
   display: block;
 }
 
+
 .stars {
   background: #000
-    url(https://steamusercontent-a.akamaihd.net/ugc/833580016562438841/FD5986E884989AC68DB40F5EEB55B6120B8D3F19/);
+    url(/1499551933_tumblr_o4gduqUPZA1urp9z5o1_400.gif);
   background-repeat: no-repeat;
   background-size: 100% 100%;
 }
 
 .clouds {
   background: transparent
-    url(https://florabama.com/images/distressed_overlay.png) repeat top center;
+    url(/distressed_overlay.png) repeat top center;
   background-repeat: no-repeat;
   z-index: 3;
 
@@ -170,6 +171,7 @@ h1 {
   -webkit-animation: move-clouds-back 200s linear infinite;
   animation: move-clouds-back 200s linear infinite;
 }
+
 
 .container {
   height: 100%;
