@@ -9,6 +9,15 @@ body {
   font-family: "Helvetica Neue", Helvetica;
 }
 
+path.link {
+  stroke: #ff0026;
+  }
+  
+.node text {
+    font-size: 12px;
+    fill: rgb(0, 255, 38);
+}
+
 #body {
   color: #00ff00;
   margin: 0 auto;
@@ -249,6 +258,7 @@ h1 {
   right: 0;
   bottom: 0;
   z-index: 1;
+  pointer-events: none;
 }
 
 .animation-container span {
