@@ -5596,17 +5596,6 @@
     {
       "children": [
         {
-          "name": "Global Terrorism Database",
-          "type": "url",
-          "url": "http://www.start.umd.edu/gtd/"
-        }
-      ],
-      "name": "Terrorism",
-      "type": "folder"
-    },
-    {
-      "children": [
-        {
           "children": [
             {
               "name": "DeepDotWeb",
