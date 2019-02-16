@@ -10,8 +10,9 @@ body {
 }
 
 #body {
+  color: #00ff00;
   margin: 0 auto;
-  position: relative;
+  position: absolute;
 }
 
 #header {
@@ -214,7 +215,7 @@ h1 {
     url(/distressed_overlay.png) repeat top center;
   background-repeat: no-repeat;
   z-index: 3;
-
+  pointer-events: none;
   -moz-animation: move-clouds-back 200s linear infinite;
   -ms-animation: move-clouds-back 200s linear infinite;
   -o-animation: move-clouds-back 200s linear infinite;
