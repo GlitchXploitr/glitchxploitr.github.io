@@ -24,7 +24,6 @@ path.link {
   color: #00ff00;
   background-color: #000000e8;
   margin: 0 auto;
-  padding-top: 18%;
   position: relative!important;
 }
 
@@ -41,7 +40,7 @@ path.link {
   top: 0px;
   right: 0;
   width: 330px;
-  font-size: 15px;
+  font-size: 10px;
   color: #00ff00;
 }
 
