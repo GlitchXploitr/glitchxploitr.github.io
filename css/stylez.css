@@ -16,13 +16,13 @@ path.link {
   }
   
 .node text {
-    font-size: 12px;
+    font-size: 14px;
     fill: rgb(0, 255, 38)!important;
 }
 
 #body {
   color: #00ff00;
-  background-color: #000000a1;
+  background-color: #000000e8;
   margin: 0 auto;
   position: relative!important;
 }
