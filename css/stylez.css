@@ -20,9 +20,10 @@ path.link {
 
 #body {
   color: #00ff00;
+  background-color: #000000a1;
   margin: 0 auto;
   padding-top: 20%;
-  position: absolute;
+  position: relative;
 }
 
 #header {
