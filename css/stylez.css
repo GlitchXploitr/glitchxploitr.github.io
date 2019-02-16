@@ -6,9 +6,9 @@
 body {
   color: #00ff00;
   font-size: 14px;
-  background-color: black;
+  background-color: black!important;
   font-family: "Helvetica Neue", Helvetica;
-  overflow-x: hidden;
+  overflow-x: hidden!important;
 }
 
 path.link {
