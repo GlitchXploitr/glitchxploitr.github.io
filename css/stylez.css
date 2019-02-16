@@ -8,7 +8,7 @@ body {
   font-size: 14px;
   background-color: black;
   font-family: "Helvetica Neue", Helvetica;
-  overflow: visible;
+  overflow-x: hidden;
 }
 
 path.link {
