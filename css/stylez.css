@@ -10,17 +10,18 @@ body {
 }
 
 path.link {
-  stroke: #ff0026;
+  stroke: #ff0026!important;
   }
   
 .node text {
     font-size: 12px;
-    fill: rgb(0, 255, 38);
+    fill: rgb(0, 255, 38)!important;
 }
 
 #body {
   color: #00ff00;
   margin: 0 auto;
+  padding-top: 20%;
   position: absolute;
 }
 
