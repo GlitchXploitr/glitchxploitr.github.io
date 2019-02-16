@@ -7,6 +7,7 @@ body {
   color: #00ff00;
   font-size: 14px;
   font-family: "Helvetica Neue", Helvetica;
+  overflow: visible;
 }
 
 path.link {
@@ -23,7 +24,7 @@ path.link {
   background-color: #000000a1;
   margin: 0 auto;
   padding-top: 20%;
-  position: relative;
+  position: relative!important;
 }
 
 #header {
